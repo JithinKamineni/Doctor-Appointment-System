@@ -1,0 +1,10 @@
+<svg width="180" height="44" viewBox="0 0 180 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="44" height="44" rx="14" fill="#2563EB"/>
+  <path d="M22 11C16.477 11 12 15.477 12 21C12 29 22 34 22 34C22 34 32 29 32 21C32 15.477 27.523 11 22 11Z" fill="white"/>
+  <path d="M22 16V26" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M17 21H27" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 15.5H76.5" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M60 23H92" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M60 30.5H108" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="120" y="28" fill="#2563EB" font-family="Arial, sans-serif" font-size="18" font-weight="700">MediBook</text>
+</svg>
