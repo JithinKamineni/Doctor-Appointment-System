@@ -18,6 +18,5 @@ public interface DoctorRepository extends JpaRepository<Doctor, Long> {
            "(:mode IS NULL OR d.mode = :mode OR d.mode = 'BOTH') AND " +
            "d.isAvailable = true")
     List<Doctor> findDoctorsBySpecialtyAndMode(@Param("specialtyId") Long specialtyId, @Param("mode") DoctorMode mode);
-
     Optional<Doctor> findByUserId(Long userId);
 }
